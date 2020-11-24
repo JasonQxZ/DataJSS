@@ -1,7 +1,3 @@
-# version 1.1
-
-library(mnormt)
-# Hard thresholding function--------------------------------
 
 Hard<-function(t=c(0,0), k=-1, lam=1)
 {  y<-t
